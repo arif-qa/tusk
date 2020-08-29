@@ -6,6 +6,9 @@ noodles
 chicken fry
 fish fry
 
+beans 
+pizza
+
 
 
 
